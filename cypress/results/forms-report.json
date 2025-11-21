@@ -1,0 +1,26 @@
+[
+  {
+    "selector": "standart-form",
+    "success": true,
+    "message": "кнопка отправки не найдена",
+    "source": "найдена на странице"
+  },
+  {
+    "selector": "standart-form",
+    "success": true,
+    "message": "кнопка отправки не найдена",
+    "source": "найдена на странице"
+  },
+  {
+    "selector": "standart-form",
+    "success": true,
+    "message": "кнопка отправки не найдена",
+    "source": "найдена на странице"
+  },
+  {
+    "selector": "standart-form",
+    "success": true,
+    "message": "кнопка отправки не найдена",
+    "source": "найдена на странице"
+  }
+]
